@@ -25,13 +25,3 @@ int main() {
     return 0;
 }
 
-
-  // GitHub Stats
-    ## 📈 GitHub Stats
-     "![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvie1711&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)" 
-
-
-
-## 🤝 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/saket-yadav-b2577b231/)
-- [LeetCode](https://leetcode.com/saket72/)
