@@ -22,14 +22,14 @@ int main() {
     cout << "## 📈 GitHub Stats" << endl;
     cout << "![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvie1711&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)" << endl;
 
-    // Contact Links (Clickable)
-    cout << "## 🤝 Let's Connect:" << endl;
-    cout << "- [LinkedIn](https://linkedin.com/in/saket-yadav-b2577b231/)" << endl;
-    cout << "- [LeetCode](https://leetcode.com/saket72/)" << endl;
-
     // Projects Section
     cout << "## 📝 Projects" << endl;
     cout << "Check out some of my featured projects below!" << endl;
 
     return 0;
 }
+
+
+## 🤝 Let's Connect:
+- [LinkedIn](https://linkedin.com/in/saket-yadav-b2577b231/)
+- [LeetCode](https://leetcode.com/saket72/)
