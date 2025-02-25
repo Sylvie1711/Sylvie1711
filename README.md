@@ -18,16 +18,18 @@ int main() {
     cout << "## 🌱 Currently learning: **AWS**" << endl;
     cout << "- **Machine Learning and RAG Applications**" << endl;
 
-  // GitHub Stats
-    cout << "## 📈 GitHub Stats" << endl;
-    cout << "![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvie1711&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)" << endl;
-
     // Projects Section
     cout << "## 📝 Projects" << endl;
     cout << "Check out some of my featured projects below!" << endl;
 
     return 0;
 }
+
+
+  // GitHub Stats
+    ## 📈 GitHub Stats
+     "![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvie1711&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)" 
+
 
 
 ## 🤝 Let's Connect:
