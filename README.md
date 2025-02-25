@@ -18,15 +18,14 @@ int main() {
     cout << "## 🌱 Currently learning: **AWS**" << endl;
     cout << "- **Machine Learning and RAG Applications**" << endl;
 
-    // GitHub Stats
+  // GitHub Stats
     cout << "## 📈 GitHub Stats" << endl;
-    cout << "![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)" << endl;
+    cout << "![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvie1711&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)" << endl;
 
-    // Contact Links
+    // Contact Links (Clickable)
     cout << "## 🤝 Let's Connect:" << endl;
-    cout << "- [LinkedIn](https://www.linkedin.com/in/saket-yadav-b2577b231/)" << endl;
-    cout << "- [LeetCode](https://leetcode.com/u/saket72/)" << endl;
-    cout << "- [Website/Blog](https://my-nextjs-portfolio-1eam.vercel.app/)" << endl;
+    cout << "- [LinkedIn](https://linkedin.com/in/saket-yadav-b2577b231/)" << endl;
+    cout << "- [LeetCode](https://leetcode.com/saket72/)" << endl;
 
     // Projects Section
     cout << "## 📝 Projects" << endl;
