@@ -25,3 +25,8 @@ int main() {
     return 0;
 }
 
+## 🤝 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/saket-yadav-b2577b231/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FBCC1D?logo=leetcode&logoColor=black)](https://leetcode.com/saket72/)
+
+
