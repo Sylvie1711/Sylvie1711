@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     // Introduction
-    cout << "# Hi, I'm [Saker] 👋" << endl;
+    cout << "# Hi, I'm Saket👋" << endl;
     cout << "I'm a passionate **Software Developer** and **Open-Source Enthusiast**." << endl;
 
     // Skills and Technologies
