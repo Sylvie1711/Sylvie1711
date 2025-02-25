@@ -26,7 +26,18 @@ int main() {
 }
 
 ## 🤝 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/saket-yadav-b2577b231/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FBCC1D?logo=leetcode&logoColor=black)](https://leetcode.com/saket72/)
+<a href="https://linkedin.com/in/saket-yadav-b2577b231/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
+</a>
+<a href="https://leetcode.com/saket72/">
+    <img src="https://img.shields.io/badge/-LeetCode-FBCC1D?logo=leetcode&logoColor=black" alt="LeetCode" height = "30"  width="100"/>
+</a>
+
+## 🏆 My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sylvie1711&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvie1711&layout=compact&theme=tokyonight)
+
 
 
