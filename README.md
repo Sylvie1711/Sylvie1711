@@ -60,11 +60,40 @@ Each repository includes clear documentation and reproducible results.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sylvie1711&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sylvie1711&theme=tokyo-night)
+
+---
+
+## 🧠 What I Actually Code In
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sylvie1711&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sylvie1711&theme=tokyonight)
+
+---
+
+## ⏱ Productivity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sylvie1711&theme=tokyonight&utcOffset=5.5)
+
+---
+
+## 🔥 Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sylvie1711&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvie1711&layout=compact&theme=tokyonight)
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Sylvie1711&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
@@ -72,3 +101,7 @@ Each repository includes clear documentation and reproducible results.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saket%20Yadav-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/saket-yadav-b2577b231/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-saket72-FBCC1D?logo=leetcode&logoColor=black)](https://leetcode.com/saket72/)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Sylvie1711&label=Profile%20views&color=0A66C2&style=flat)
