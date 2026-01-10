@@ -1,43 +1,74 @@
-    #include <iostream>
+# 👋 Saket Yadav
 
-    using namespace std;
+**Software Developer | Data & Analytics | Open-Source Enthusiast**
 
-    int main() {
-    // Introduction
-    cout << "# Hi, I'm Saket👋" << endl;
-    cout << "I'm a passionate **Software Developer** and **Open-Source Enthusiast**." << endl;
+I’m a software developer with hands-on experience building scalable web applications, working with databases, and writing production-grade code. I focus on backend systems, data-driven products, and modern full-stack development.
 
-    // Skills and Technologies
-    cout << "## 🚀 Skills and Technologies:" << endl;
-    cout << "- Frontend: **React**, **Tailwind**, **HTML**, **CSS**" << endl;
-    cout << "- Backend: **Node.js**, **Python** << endl;
-    cout << "- Database:  **MongoDB**" << endl;
-    cout << "- Other:  **Git**,  << endl;
+I enjoy solving problems that sit at the intersection of **engineering, data, and real-world business use-cases**.
 
-    // Currently Learning
-    cout << "## 🌱 Currently learning: **AWS**" << endl;
-    cout << "- **Machine Learning and RAG Applications**" << endl;
+---
 
-    // Projects Section
-    cout << "## 📝 Projects" << endl;
-    cout << "Check out some of my featured projects below!" << endl;
+## 🧰 Tech Stack
 
-    return 0;
-    }
+**Languages**  
+JavaScript · Python · SQL · C++
 
-## 🤝 Let's Connect:
-<a href="https://linkedin.com/in/saket-yadav-b2577b231/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
-</a>
-<a href="https://leetcode.com/saket72/">
-    <img src="https://img.shields.io/badge/-LeetCode-FBCC1D?logo=leetcode&logoColor=black" alt="LeetCode" height = "30"  width="100"/>
-</a>
+**Frontend**  
+React · HTML · CSS · Tailwind
 
-## 🏆 My GitHub Streak
+**Backend & APIs**  
+Node.js · Express · REST APIs
+
+**Databases**  
+MongoDB · PostgreSQL
+
+**Data & Analytics**  
+SQL · Pandas · Data Modeling
+
+**Tools & Platforms**  
+Git · GitHub · Docker · Linux · AWS
+
+---
+
+## 📌 Currently Working On
+
+- Advanced **SQL & Data Analytics**
+- **Backend system design**
+- **AWS & cloud deployments**
+- **Machine Learning & RAG-based applications**
+
+---
+
+## 🧠 What I Care About
+
+- Writing **clean, maintainable code**
+- **Performance-focused backend systems**
+- Data pipelines & analytics workflows
+- Real-world production problems (not toy projects)
+
+---
+
+## 📝 Featured Projects
+
+My pinned repositories showcase:
+- Full-stack applications  
+- Data analysis & SQL projects  
+- API-driven systems  
+- Machine learning experiments  
+
+Each repository includes clear documentation and reproducible results.
+
+---
+
+## 📊 GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sylvie1711&theme=tokyonight)
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvie1711&layout=compact&theme=tokyonight)
 
+---
 
+## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saket%20Yadav-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/saket-yadav-b2577b231/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-saket72-FBCC1D?logo=leetcode&logoColor=black)](https://leetcode.com/saket72/)
