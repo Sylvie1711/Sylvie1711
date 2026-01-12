@@ -38,26 +38,6 @@ Git · GitHub · Docker · Linux · AWS
 - **Machine Learning & RAG-based applications**
 
 ---
-
-## 🧠 What I Care About
-
-- Writing **clean, maintainable code**
-- **Performance-focused backend systems**
-- Data pipelines & analytics workflows
-- Real-world production problems (not toy projects)
-
----
-
-## 📝 Featured Projects
-
-My pinned repositories showcase:
-- Full-stack applications  
-- Data analysis & SQL projects  
-- API-driven systems  
-- Machine learning experiments  
-
-Each repository includes clear documentation and reproducible results.
-
 ---
 
 ## 📊 GitHub Overview
