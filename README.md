@@ -1,6 +1,6 @@
 # 👋 Saket Yadav
 
-**Software Developer | Data & Analytics | Open-Source Enthusiast**
+**Software Developer |  Open-Source Enthusiast**
 
 I’m a software developer with hands-on experience building scalable web applications, working with databases, and writing production-grade code. I focus on backend systems, data-driven products, and modern full-stack development.
 
@@ -11,7 +11,7 @@ I enjoy solving problems that sit at the intersection of **engineering, data, an
 ## 🧰 Tech Stack
 
 **Languages**  
-JavaScript · Python · SQL · C++
+JavaScript · Python · SQL · C++ · JAVA 
 
 **Frontend**  
 React · HTML · CSS · Tailwind
